@@ -1,3 +1,3 @@
 See Python's docs:
 
-  - [dict](https://docs.python.org/3/library/stdtypes.html#mapping-types-dict)
+  - [OrderedDict](https://docs.python.org/3/library/collections.html#collections.OrderedDict)
