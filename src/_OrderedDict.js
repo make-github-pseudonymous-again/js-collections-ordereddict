@@ -1,5 +1,5 @@
-import { KeyError } from '../../error' ;
-import Mapping from '../../mapping' ;
+import { KeyError } from 'aureooms-js-error' ;
+import { fromkeys } from 'aureooms-js-mapping' ;
 
 export default function _OrderedDict ( Dict , Map , DoublyLinkedList ) {
 
@@ -80,7 +80,7 @@ export default function _OrderedDict ( Dict , Map , DoublyLinkedList ) {
 
 	OrderedDict.fromkeys = function ( seq , value = null ) {
 
-		return new OrderedDict( Mapping.fromkeys( seq , value ) ) ;
+		return new OrderedDict( fromkeys( seq , value ) ) ;
 
 	} ;
 

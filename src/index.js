@@ -1,65 +1,18 @@
+import _OrderedDict from './_OrderedDict' ;
+import _ordereddict from './_ordereddict' ;
+
+import { Dict } from 'aureooms-js-collections-dict' ;
 import { DoublyLinkedList } from 'aureooms-js-dll' ;
-import compile from './compile' ;
-import core from './core' ;
 
-const collections = compile( Set , Map , DoublyLinkedList , core ) ;
+const OrderedDict = _OrderedDict( Dict , Map , DoublyLinkedList ) ; // Map is the native map implementation
+const ordereddict = _ordereddict( OrderedDict ) ;
 
-export default collections ;
-
-const {
-
-	bisect ,
-	chainmap ,
-	counter ,
-	deque ,
-	dict ,
-	ordereddict ,
-	defaultdict ,
-	heapq ,
-	Mapping ,
-	namedtuple ,
-	set ,
-
-	ArbitrarySizeDeque ,
-	BoundedDeque ,
-	Deque ,
-	EmptyDeque ,
-	SingleElementDeque ,
-	UnboundedDeque ,
-
-	IndexError ,
-	KeyError ,
-	NotImplementedError ,
-	TypeError ,
-	ValueError ,
-
-} = collections ;
+export default ordereddict ;
 
 export {
-
-	bisect ,
-	chainmap ,
-	counter ,
-	deque ,
-	dict ,
 	ordereddict ,
-	defaultdict ,
-	heapq ,
-	Mapping ,
-	namedtuple ,
-	set ,
-
-	ArbitrarySizeDeque ,
-	BoundedDeque ,
-	Deque ,
-	EmptyDeque ,
-	SingleElementDeque ,
-	UnboundedDeque ,
-
-	IndexError ,
-	KeyError ,
-	NotImplementedError ,
-	TypeError ,
-	ValueError ,
-
+	OrderedDict ,
+	_ordereddict ,
+	_OrderedDict ,
 } ;
+

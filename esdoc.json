@@ -9,7 +9,7 @@
   "debug": false,
   "index": "./README.md",
   "package": "./package.json",
-  "title": "aureooms/js-collections-dict",
+  "title": "aureooms/js-collections-ordereddict",
   "test": {
     "type": "ava",
     "source": "./test/src"
