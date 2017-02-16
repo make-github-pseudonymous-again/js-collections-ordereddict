@@ -1,8 +1,8 @@
 import test from 'ava' ;
 
-import { list } from 'aureooms-js-itertools' ;
-import dict from 'aureooms-js-collections-dict' ;
-import { KeyError } from 'aureooms-js-error' ;
+import { list } from '@aureooms/js-itertools' ;
+import dict from '@aureooms/js-collections-dict' ;
+import { KeyError } from '@aureooms/js-error' ;
 
 import ordereddict from '../../src' ;
 
