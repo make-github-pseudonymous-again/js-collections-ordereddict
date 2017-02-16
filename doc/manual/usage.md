@@ -8,7 +8,7 @@ import 'babel-polyfill' ;
 
 Then
 ```js
-const number = require( 'aureooms-js-collections-ordereddict' ) ;
+const number = require( '@aureooms/js-collections-ordereddict' ) ;
 // or
-import number from 'aureooms-js-collections-ordereddict' ;
+import number from '@aureooms/js-collections-ordereddict' ;
 ```
