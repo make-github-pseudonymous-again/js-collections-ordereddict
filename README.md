@@ -1,8 +1,8 @@
-[js-collections-ordereddict](http://aureooms.github.io/js-collections-ordereddict)
+[@aureooms/js-collections-ordereddict](https://aureooms.github.io/js-collections-ordereddict)
 ==
 
 Python's ordereddict data structure for JavaScript. Parent is
-[js-collections](https://github.com/aureooms/js-collections).
+[@aureooms/js-collections](https://github.com/aureooms/js-collections).
 
 ```js
 [ ...ordereddict.fromkeys( "cab" ).keys( ) ] ; // [ "c" , "a" , "b" ]
