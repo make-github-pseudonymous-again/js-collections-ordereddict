@@ -1,0 +1,767 @@
+[
+  {
+    "__docId__": 1,
+    "kind": "external",
+    "name": "Infinity",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Infinity",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 2,
+    "kind": "external",
+    "name": "NaN",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~NaN",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 3,
+    "kind": "external",
+    "name": "undefined",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~undefined",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 4,
+    "kind": "external",
+    "name": "null",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~null",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 5,
+    "kind": "external",
+    "name": "Object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 6,
+    "kind": "external",
+    "name": "object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 7,
+    "kind": "external",
+    "name": "Function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 8,
+    "kind": "external",
+    "name": "function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 9,
+    "kind": "external",
+    "name": "Boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 10,
+    "kind": "external",
+    "name": "boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 11,
+    "kind": "external",
+    "name": "Symbol",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Symbol",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 12,
+    "kind": "external",
+    "name": "Error",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Error",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 13,
+    "kind": "external",
+    "name": "EvalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/EvalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~EvalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 14,
+    "kind": "external",
+    "name": "InternalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/InternalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~InternalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 15,
+    "kind": "external",
+    "name": "RangeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RangeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 16,
+    "kind": "external",
+    "name": "ReferenceError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ReferenceError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 17,
+    "kind": "external",
+    "name": "SyntaxError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~SyntaxError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 18,
+    "kind": "external",
+    "name": "TypeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~TypeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 19,
+    "kind": "external",
+    "name": "URIError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~URIError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 20,
+    "kind": "external",
+    "name": "Number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 21,
+    "kind": "external",
+    "name": "number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 22,
+    "kind": "external",
+    "name": "Date",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Date",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 23,
+    "kind": "external",
+    "name": "String",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~String",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 24,
+    "kind": "external",
+    "name": "string",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~string",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 25,
+    "kind": "external",
+    "name": "RegExp",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RegExp",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 26,
+    "kind": "external",
+    "name": "Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 27,
+    "kind": "external",
+    "name": "Int8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 28,
+    "kind": "external",
+    "name": "Uint8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 29,
+    "kind": "external",
+    "name": "Uint8ClampedArray",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8ClampedArray",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 30,
+    "kind": "external",
+    "name": "Int16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 31,
+    "kind": "external",
+    "name": "Uint16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 32,
+    "kind": "external",
+    "name": "Int32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 33,
+    "kind": "external",
+    "name": "Uint32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 34,
+    "kind": "external",
+    "name": "Float32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 35,
+    "kind": "external",
+    "name": "Float64Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float64Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float64Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 36,
+    "kind": "external",
+    "name": "Map",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Map",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 37,
+    "kind": "external",
+    "name": "Set",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Set",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 38,
+    "kind": "external",
+    "name": "WeakMap",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakMap",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 39,
+    "kind": "external",
+    "name": "WeakSet",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakSet",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 40,
+    "kind": "external",
+    "name": "ArrayBuffer",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ArrayBuffer",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 41,
+    "kind": "external",
+    "name": "DataView",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~DataView",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 42,
+    "kind": "external",
+    "name": "JSON",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~JSON",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 43,
+    "kind": "external",
+    "name": "Promise",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Promise",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 44,
+    "kind": "external",
+    "name": "Generator",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Generator",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 45,
+    "kind": "external",
+    "name": "GeneratorFunction",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~GeneratorFunction",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 46,
+    "kind": "external",
+    "name": "Reflect",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Reflect",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 47,
+    "kind": "external",
+    "name": "Proxy",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Proxy",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 48,
+    "kind": "file",
+    "name": "src/_OrderedDict.js",
+    "content": "import { KeyError } from '@aureooms/js-error' ;\nimport { fromkeys } from '@aureooms/js-mapping' ;\n\nexport default function _OrderedDict ( Dict , Map , DoublyLinkedList ) {\n\n\tconst OrderedDict = function ( mapping ) {\n\n\t\tthis.container = new Map( ) ;\n\n\t\tthis.map = new Map( ) ;\n\n\t\tthis.list = new DoublyLinkedList( ) ;\n\n\t\tif ( mapping !== null ) this.update( mapping ) ;\n\n\t} ;\n\n\tOrderedDict.prototype = new Dict( ) ;\n\n\tOrderedDict.prototype.isequal = function ( other ) {\n\n\t\tif ( ! ( other instanceof OrderedDict ) ) return false ;\n\n\t\tif ( !Dict.prototype.isequal.call( this , other ) ) return false ;\n\n\t\tlet keys = this.keys( ) ;\n\n\t\tfor ( let key of other.keys( ) ) {\n\n\t\t\tif ( keys.next( ).value !== key ) return false ;\n\n\t\t}\n\n\t\treturn true ;\n\n\t} ;\n\n\tOrderedDict.prototype.set = function ( key , value ) {\n\n\t\tif ( !this.has( key ) ) {\n\n\t\t\tthis.map.set( key , this.list.push( key ) ) ;\n\n\t\t}\n\n\t\tthis.container.set( key , value ) ;\n\n\t\treturn this ;\n\n\t} ;\n\n\tOrderedDict.prototype.delete = function ( key ) {\n\n\t\tif ( !this.container.delete( key ) ) throw new KeyError( ) ;\n\n\t\tthis.list.erase( this.map.get( key ) ) ;\n\t\tthis.map.delete( key ) ;\n\n\t\treturn this ;\n\n\t} ;\n\n\tOrderedDict.prototype.clear = function ( ) {\n\n\t\tthis.container.clear( ) ;\n\n\t\tthis.map.clear( ) ;\n\n\t\tthis.list.clear( ) ;\n\n\t\treturn this ;\n\n\t} ;\n\n\tOrderedDict.prototype.copy = function ( ) {\n\n\t\treturn new OrderedDict( this.items( ) ) ;\n\n\t} ;\n\n\tOrderedDict.fromkeys = function ( seq , value = null ) {\n\n\t\treturn new OrderedDict( fromkeys( seq , value ) ) ;\n\n\t} ;\n\n\tOrderedDict.prototype.popitem = function ( last = true ) {\n\n\t\tif ( this.len( ) === 0 ) throw new KeyError( ) ;\n\n\t\tconst key = last ?\n\t\tthis.list.end( ).prev( ).value :\n\t\tthis.list.begin( ).next( ).value ;\n\n\t\treturn [ key , this.pop( key ) ] ;\n\n\t} ;\n\n\tOrderedDict.prototype.move_to_end = function ( key , last = true ) {\n\n\t\tif ( !this.container.has( key ) ) throw new KeyError( ) ;\n\n\t\tthis.list.erase( this.map.get( key ) ) ;\n\n\t\tconst iterator = last ? this.list.push( key ) : this.list.unshift( key ) ;\n\n\t\tthis.map.set( key , iterator ) ;\n\n\t\treturn this ;\n\n\t} ;\n\n\tOrderedDict.prototype.keys = function* ( ) {\n\n\t\tfor ( let key of this.list ) yield key ;\n\n\t} ;\n\n\tOrderedDict.prototype.values = function* ( ) {\n\n\t\tfor ( let key of this.keys( ) ) yield this.container.get( key ) ;\n\n\t} ;\n\n\tOrderedDict.prototype.items = function* ( ) {\n\n\t\tfor ( let key of this.keys( ) ) yield [ key , this.container.get( key ) ] ;\n\n\t} ;\n\n\tOrderedDict.prototype[Symbol.iterator] = OrderedDict.prototype.items ;\n\n\treturn OrderedDict ;\n\n}\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-collections-ordereddict/src/_OrderedDict.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 49,
+    "kind": "function",
+    "name": "_OrderedDict",
+    "memberof": "src/_OrderedDict.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/_OrderedDict.js~_OrderedDict",
+    "access": "private",
+    "export": true,
+    "importPath": "@aureooms/js-collections-ordereddict/src/_OrderedDict.js",
+    "importStyle": "_OrderedDict",
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "params": [
+      {
+        "name": "Dict",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "Map",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "DoublyLinkedList",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 50,
+    "kind": "file",
+    "name": "src/_ordereddict.js",
+    "content": "\nexport default function _ordereddict ( OrderedDict ) {\n\n\tconst ordereddict = function ( mapping = null ) {\n\n\t\treturn new OrderedDict( mapping ) ;\n\n\t} ;\n\n\tordereddict.fromkeys = OrderedDict.fromkeys ;\n\n\treturn ordereddict ;\n\n}\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-collections-ordereddict/src/_ordereddict.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 51,
+    "kind": "function",
+    "name": "_ordereddict",
+    "memberof": "src/_ordereddict.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/_ordereddict.js~_ordereddict",
+    "access": "private",
+    "export": true,
+    "importPath": "@aureooms/js-collections-ordereddict/src/_ordereddict.js",
+    "importStyle": "_ordereddict",
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "params": [
+      {
+        "name": "OrderedDict",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 52,
+    "kind": "file",
+    "name": "src/index.js",
+    "content": "import _OrderedDict from './_OrderedDict' ;\nimport _ordereddict from './_ordereddict' ;\n\nimport { Dict } from '@aureooms/js-collections-dict' ;\nimport { DoublyLinkedList } from '@aureooms/js-dll' ;\n\nconst OrderedDict = _OrderedDict( Dict , Map , DoublyLinkedList ) ; // Map is the native map implementation\nconst ordereddict = _ordereddict( OrderedDict ) ;\n\nexport default ordereddict ;\n\nexport {\n\tordereddict ,\n\tOrderedDict ,\n\t_ordereddict ,\n\t_OrderedDict ,\n} ;\n\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-collections-ordereddict/src/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 53,
+    "kind": "variable",
+    "name": "ordereddict",
+    "memberof": "src/index.js",
+    "static": true,
+    "longname": "src/index.js~ordereddict",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-collections-ordereddict/src/index.js",
+    "importStyle": "ordereddict",
+    "description": null,
+    "lineNumber": 8,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 54,
+    "kind": "variable",
+    "name": "OrderedDict",
+    "memberof": "src/index.js",
+    "static": true,
+    "longname": "src/index.js~OrderedDict",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-collections-ordereddict/src/index.js",
+    "importStyle": "{OrderedDict}",
+    "description": null,
+    "lineNumber": 7,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "kind": "index",
+    "content": "[@aureooms/js-collections-ordereddict](https://aureooms.github.io/js-collections-ordereddict)\n==\n\nPython's ordereddict data structure for JavaScript. Parent is\n[@aureooms/js-collections](https://github.com/aureooms/js-collections).\n\n```js\n[ ...ordereddict.fromkeys( \"cab\" ).keys( ) ] ; // [ \"c\" , \"a\" , \"b\" ]\n```\n\n[![License](https://img.shields.io/github/license/aureooms/js-collections-ordereddict.svg)](https://raw.githubusercontent.com/aureooms/js-collections-ordereddict/master/LICENSE)\n[![Version](https://img.shields.io/npm/v/@aureooms/js-collections-ordereddict.svg)](https://www.npmjs.org/package/@aureooms/js-collections-ordereddict)\n[![Build](https://img.shields.io/travis/aureooms/js-collections-ordereddict/master.svg)](https://travis-ci.org/aureooms/js-collections-ordereddict/branches)\n[![Dependencies](https://img.shields.io/david/aureooms/js-collections-ordereddict.svg)](https://david-dm.org/aureooms/js-collections-ordereddict)\n[![Dev dependencies](https://img.shields.io/david/dev/aureooms/js-collections-ordereddict.svg)](https://david-dm.org/aureooms/js-collections-ordereddict?type=dev)\n[![GitHub issues](https://img.shields.io/github/issues/aureooms/js-collections-ordereddict.svg)](https://github.com/aureooms/js-collections-ordereddict/issues)\n[![Downloads](https://img.shields.io/npm/dm/@aureooms/js-collections-ordereddict.svg)](https://www.npmjs.org/package/@aureooms/js-collections-ordereddict)\n\n[![Code issues](https://img.shields.io/codeclimate/issues/aureooms/js-collections-ordereddict.svg)](https://codeclimate.com/github/aureooms/js-collections-ordereddict/issues)\n[![Code maintainability](https://img.shields.io/codeclimate/maintainability/aureooms/js-collections-ordereddict.svg)](https://codeclimate.com/github/aureooms/js-collections-ordereddict/trends/churn)\n[![Code coverage (cov)](https://img.shields.io/codecov/c/gh/aureooms/js-collections-ordereddict/master.svg)](https://codecov.io/gh/aureooms/js-collections-ordereddict)\n[![Code technical debt](https://img.shields.io/codeclimate/tech-debt/aureooms/js-collections-ordereddict.svg)](https://codeclimate.com/github/aureooms/js-collections-ordereddict/trends/technical_debt)\n[![Documentation](https://aureooms.github.io/js-collections-ordereddict//badge.svg)](https://aureooms.github.io/js-collections-ordereddict//source.html)\n[![Package size](https://img.shields.io/bundlephobia/minzip/@aureooms/js-collections-ordereddict)](https://bundlephobia.com/result?p=@aureooms/js-collections-ordereddict)\n",
+    "longname": "/home/aureooms/dev/js/js-collections-ordereddict/README.md",
+    "name": "./README.md",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "packageJSON",
+    "content": "{\n  \"name\": \"@aureooms/js-collections-ordereddict\",\n  \"description\": \"Python's ordereddict data structure for JavaScript\",\n  \"version\": \"4.0.0\",\n  \"author\": \"Aurélien Ooms <aurelien.ooms@gmail.com>\",\n  \"ava\": {\n    \"require\": [\n      \"@babel/polyfill\",\n      \"@babel/register\"\n    ],\n    \"files\": [\n      \"test/src/**/*\"\n    ],\n    \"timeout\": \"1m\"\n  },\n  \"babel\": {\n    \"presets\": [\n      \"@babel/preset-env\"\n    ],\n    \"env\": {\n      \"development\": {\n        \"sourceMaps\": \"inline\"\n      }\n    }\n  },\n  \"bugs\": {\n    \"url\": \"https://github.com/aureooms/js-collections-ordereddict/issues\"\n  },\n  \"dependencies\": {\n    \"@aureooms/js-collections-dict\": \"^4.0.0\",\n    \"@aureooms/js-dll\": \"^7.0.0\",\n    \"@aureooms/js-error\": \"^4.0.0\",\n    \"@aureooms/js-mapping\": \"^3.1.0\"\n  },\n  \"devDependencies\": {\n    \"@aureooms/js-compare\": \"^1.4.5\",\n    \"@aureooms/js-itertools\": \"^3.4.0\",\n    \"@babel/cli\": \"7.8.4\",\n    \"@babel/core\": \"7.9.0\",\n    \"@babel/polyfill\": \"7.8.7\",\n    \"@babel/preset-env\": \"7.9.5\",\n    \"@babel/register\": \"7.9.0\",\n    \"ava\": \"^3.8.1\",\n    \"coveralls\": \"^3.1.0\",\n    \"esdoc\": \"^1.1.0\",\n    \"esdoc-inject-script-plugin\": \"1.0.0\",\n    \"esdoc-inject-style-plugin\": \"1.0.0\",\n    \"esdoc-standard-plugin\": \"1.0.0\",\n    \"np\": \"6.2.3\",\n    \"nyc\": \"^15.0.1\"\n  },\n  \"files\": [\n    \"lib\"\n  ],\n  \"homepage\": \"http://aureooms.github.io/js-collections-ordereddict/\",\n  \"keywords\": [\n    \"bisect\",\n    \"collection\",\n    \"collections\",\n    \"count\",\n    \"counter\",\n    \"dict\",\n    \"hash\",\n    \"heapq\",\n    \"javascript\",\n    \"js\",\n    \"list\",\n    \"map\"\n  ],\n  \"license\": \"AGPL-3.0\",\n  \"main\": \"lib/index.js\",\n  \"repository\": {\n    \"url\": \"https://github.com/aureooms/js-collections-ordereddict.git\",\n    \"type\": \"git\"\n  },\n  \"scripts\": {\n    \"build\": \"rm -rf lib && babel src -d lib\",\n    \"cover\": \"nyc --reporter=lcov npm test\",\n    \"esdoc\": \"esdoc\",\n    \"prepare\": \"npm run build\",\n    \"release\": \"np\",\n    \"test\": \"ava\"\n  }\n}\n",
+    "longname": "/home/aureooms/dev/js/js-collections-ordereddict/package.json",
+    "name": "package.json",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manualIndex",
+    "globalIndex": false,
+    "content": null,
+    "longname": "",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/aureooms/dev/js/js-collections-ordereddict/doc/manual/overview.md",
+    "name": "./doc/manual/overview.md",
+    "content": "# Overview\n",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/aureooms/dev/js/js-collections-ordereddict/doc/manual/installation.md",
+    "name": "./doc/manual/installation.md",
+    "content": "# Installation\nCan be managed using\n[jspm](http://jspm.io)\nor [npm](https://github.com/npm/npm).\n\n### jspm\n```terminal\njspm install npm:@aureooms/js-collections-ordereddict\n```\n\n### npm\n```terminal\nnpm install @aureooms/js-collections-ordereddict --save\n```\n",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/aureooms/dev/js/js-collections-ordereddict/doc/manual/usage.md",
+    "name": "./doc/manual/usage.md",
+    "content": "# Usage\nThe code needs a ES2015+ polyfill to work, for example\n[@babel/polyfill](https://babeljs.io/docs/usage/polyfill).\n```js\nrequire( '@babel/polyfill' ) ;\n// or\nimport '@babel/polyfill' ;\n```\n\nThen\n```js\nconst number = require( '@aureooms/js-collections-ordereddict' ) ;\n// or\nimport number from '@aureooms/js-collections-ordereddict' ;\n```\n",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/aureooms/dev/js/js-collections-ordereddict/doc/manual/example.md",
+    "name": "./doc/manual/example.md",
+    "content": "# Examples\nSee Python's docs:\n\n  - [OrderedDict](https://docs.python.org/3/library/collections.html#collections.OrderedDict)\n",
+    "static": true,
+    "access": "public"
+  }
+]
