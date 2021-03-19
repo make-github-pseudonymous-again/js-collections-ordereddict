@@ -32,7 +32,7 @@
   resolved "https://registry.yarnpkg.com/@aureooms/js-error/-/js-error-4.0.0.tgz#cea0a145f5290f443911b3d1890d7254a18eeb9b"
   integrity sha512-omwmz82cPxqRnorZ8tqeIcPj1QcJnCsMiVYcwOh/QfUXhJ+DmiBPgWOm5WWAQvQzYVKe0/k7+s2ie+UoRJagjA==
 
-"@aureooms/js-error@^5.0.2":
+"@aureooms/js-error@^5.0.0", "@aureooms/js-error@^5.0.2":
   version "5.0.2"
   resolved "https://registry.yarnpkg.com/@aureooms/js-error/-/js-error-5.0.2.tgz#dc2ad2fc2b10365581c32c28222daccc5c3c9600"
   integrity sha512-HLO95kmZ1nJV5qo8Xq7czHVskFGPkM3l60JFgdTnpvCH6P6lkyWDBplaDB9gI5cPvcRIZDs1HeAHhAlHR/jBxw==
