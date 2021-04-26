@@ -24,7 +24,7 @@
     }
   },
   "bugs": {
-    "url": "https://github.com/aureooms/js-collections-ordereddict/issues"
+    "url": "https://github.com/make-github-pseudonymous-again/js-collections-ordereddict/issues"
   },
   "dependencies": {
     "@aureooms/js-collections-dict": "^4.0.0",
@@ -70,7 +70,7 @@
   "license": "AGPL-3.0",
   "main": "lib/index.js",
   "repository": {
-    "url": "https://github.com/aureooms/js-collections-ordereddict.git",
+    "url": "https://github.com/make-github-pseudonymous-again/js-collections-ordereddict.git",
     "type": "git"
   },
   "scripts": {
