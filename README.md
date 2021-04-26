@@ -1,4 +1,4 @@
-[@aureooms/js-collections-ordereddict](https://aureooms.github.io/js-collections-ordereddict)
+[@aureooms/js-collections-ordereddict](https://make-github-pseudonymous-again.github.io/js-collections-ordereddict)
 ==
 
 Python's ordereddict data structure for JavaScript. Parent is
@@ -20,5 +20,5 @@ Python's ordereddict data structure for JavaScript. Parent is
 [![Code maintainability](https://img.shields.io/codeclimate/maintainability/aureooms/js-collections-ordereddict.svg)](https://codeclimate.com/github/aureooms/js-collections-ordereddict/trends/churn)
 [![Code coverage (cov)](https://img.shields.io/codecov/c/gh/aureooms/js-collections-ordereddict/master.svg)](https://codecov.io/gh/aureooms/js-collections-ordereddict)
 [![Code technical debt](https://img.shields.io/codeclimate/tech-debt/aureooms/js-collections-ordereddict.svg)](https://codeclimate.com/github/aureooms/js-collections-ordereddict/trends/technical_debt)
-[![Documentation](https://aureooms.github.io/js-collections-ordereddict//badge.svg)](https://aureooms.github.io/js-collections-ordereddict//source.html)
+[![Documentation](https://make-github-pseudonymous-again.github.io/js-collections-ordereddict//badge.svg)](https://make-github-pseudonymous-again.github.io/js-collections-ordereddict//source.html)
 [![Package size](https://img.shields.io/bundlephobia/minzip/@aureooms/js-collections-ordereddict)](https://bundlephobia.com/result?p=@aureooms/js-collections-ordereddict)
