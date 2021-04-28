@@ -29,7 +29,7 @@
   "dependencies": {
     "@aureooms/js-collections-dict": "^4.0.0",
     "@aureooms/js-dll": "^7.0.0",
-    "@aureooms/js-error": "^4.0.0",
+    "@aureooms/js-error": "^5.0.0",
     "@aureooms/js-mapping": "^5.0.0"
   },
   "devDependencies": {
